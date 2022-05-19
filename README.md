@@ -1,6 +1,6 @@
-# MetaMask Module Template
+# 🛑 Archived 🛑
 
-This TypeScript module is maintained in the style of the MetaMask team.
+This repository has been moved to https://github.com/MetaMask/snaps-skunkworks/tree/main/packages/examples as of `d1f47a04789a26a8a4c39e61a555d2ef3a495204`.
 
 ## Installation
 
